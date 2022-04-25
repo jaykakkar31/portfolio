@@ -176,16 +176,17 @@ function Landing() {
                                     </Button>
                                 </a>
                             )}
-                            <NavLink
-                                to='/#contacts'
+                            <a
+                                href='/#contacts'
                                 smooth={true}
                                 spy='true'
+
                                 duration={2000}
                             >
                                 <Button className={classes.contactBtn}>
                                     Contact
                                 </Button>
-                            </NavLink>
+                            </a>
                         </div>
                     </div>
                 </div>
