@@ -68,7 +68,7 @@ function Projects() {
                         </div> 
 
                         {projectsData.length > 3 && (
-                            <div className="projects--viewAll">
+                            <div className="projects--viewAll" style={{cursor:"pointer"}}>
                                 <Link to="/projects">
                                     <button className={classes.viewAllBtn}>
                                         View All
