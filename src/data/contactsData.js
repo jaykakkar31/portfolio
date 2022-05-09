@@ -5,4 +5,3 @@ export const contactsData = {
 
     sheetAPI: ''
 }
-// AIzaSyDPmCKQP4Bz9Nwt6a9r34XISH2MmLT5oAs;
